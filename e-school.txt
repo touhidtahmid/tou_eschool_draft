@@ -1,0 +1,10 @@
+section 7
+ccolor
+	black- #000000;
+	green- #21B573
+	white- #F0FFF0
+	orange- #FD511A
+
+font family 
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
